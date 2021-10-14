@@ -385,8 +385,8 @@
                         <h4>234/80 -UFG , New Street,</h4>
                         <h4>Switzerland.</h4>
                         <h4><strong>Call:</strong>  + 67-098-907-1269 / 70 / 71 </h4>
-                        <h4><strong>phone: </strong> 13918040221 </h4>
-                        <h4><strong>phone: </strong> admin@888 </h4>
+                        <h4><strong>usrname: </strong> 13918040221 </h4>
+			<h4><strong>password: </strong> admin@888 </h4>
                     </div>
 
 
